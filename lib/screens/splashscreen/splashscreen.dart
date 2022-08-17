@@ -12,7 +12,19 @@ class _SplashscreenState extends State<Splashscreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Container(color: primaryColor,),
+      body: Container(
+        decoration: BoxDecoration(
+            gradient: LinearGradient(
+                begin: Alignment.topCenter,
+                end: Alignment.bottomCenter,
+                colors: [white, grey])),
+        child: Center(
+            child: Image.asset(
+          'assets/pokemon-logo-new.png',
+          height: MediaQuery.of(context).size.height * 0.25,
+          width: MediaQuery.of(context).size.width * 0.85,
+        )),
+      ),
     );
   }
 }
