@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 import 'package:pokedox/resources/color.dart';
+import 'package:pokedox/routers/routes.dart';
 
 class Splashscreen extends StatefulWidget {
   const Splashscreen({Key? key}) : super(key: key);
@@ -9,6 +11,7 @@ class Splashscreen extends StatefulWidget {
 }
 
 class _SplashscreenState extends State<Splashscreen> {
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -26,5 +29,13 @@ class _SplashscreenState extends State<Splashscreen> {
         )),
       ),
     );
+  }
+
+  @override
+  void initState() {
+    Future.delayed(const Duration(seconds: 3),(){
+      Get.offNamed(homeRoute);
+    });
+    super.initState();
   }
 }

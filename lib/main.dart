@@ -24,10 +24,11 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       title: "Pokedox",
       theme: ThemeData(
-          textTheme: GoogleFonts.interTextTheme(Theme.of(context).textTheme),
+          textTheme: GoogleFonts.secularOneTextTheme(Theme.of(context).textTheme),
           primarySwatch: primaryColorMaterial, textSelectionTheme: TextSelectionThemeData(selectionColor: textBgColor)),
-      onGenerateRoute: route.generateRoute,
+      // onGenerateRoute: route.generateRoute,
       initialRoute: splashScreenRoute,
+      getPages: route.getPages(),
     );
   }
 }

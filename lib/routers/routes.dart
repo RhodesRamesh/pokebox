@@ -2,3 +2,5 @@
 //fixme Format should be in  -> screen name starts with lowercase and next word should be in uppercase and ends with Route word
 
 const splashScreenRoute = "/";
+const homeRoute = "/home";
+const pokemonRoute = "/pokemon";
