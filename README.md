@@ -25,4 +25,6 @@ its a Pokedox application build with flutter
 - [hungps](https://github.com/hungps/flutter_pokedex) for Pokemon API
 - [Saepul Nahwan](https://dribbble.com/shots/6540871-Pokedex-App?utm_source=Clipboard_Shot&utm_campaign=saepulnahwan23&utm_content=Pokedex%20App&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=saepulnahwan23&utm_content=Pokedex%20App&utm_medium=Social_Share) for App design
 
-##License
+## License
+
+All the code available under the MIT + Apache 2.0. licenses. See [LICENSE](LICENSE).
