@@ -5,9 +5,9 @@ its a Pokedox application build with flutter
 ## App Preview
 <table>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/37578839/185832114-411dcb15-b44f-49f4-b3ba-cbc1b5bcf9ff.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="400" /></td>
-<td><img src="https://user-images.githubusercontent.com/37578839/185832092-4777886c-f2c8-404b-a9cb-a69a518f6f9c.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="400" /></td>
-<td><img src="https://user-images.githubusercontent.com/37578839/185832131-e494178a-0760-4613-8e47-4322ad385280.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="400" /></td>
+<td><img src="https://user-images.githubusercontent.com/37578839/185832114-411dcb15-b44f-49f4-b3ba-cbc1b5bcf9ff.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="500" /></td>
+<td><img src="https://user-images.githubusercontent.com/37578839/185832092-4777886c-f2c8-404b-a9cb-a69a518f6f9c.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="500" /></td>
+<td><img src="https://user-images.githubusercontent.com/37578839/185832131-e494178a-0760-4613-8e47-4322ad385280.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="250" height="500" /></td>
 </tr>
 </table>
 
