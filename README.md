@@ -28,3 +28,8 @@ its a Pokedox application build with flutter
 ## License
 
 All the code available under the MIT + Apache 2.0. licenses. See [LICENSE](LICENSE).
+
+
+>As long as you don't give up, There will be always Salvation  `-Kakashi Hatake`
+
+>Happy Coding. Stay Safe. Stay Happy. Be Kind
