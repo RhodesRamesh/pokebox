@@ -29,6 +29,7 @@ class _MyAppState extends State<MyApp> {
       // onGenerateRoute: route.generateRoute,
       initialRoute: splashScreenRoute,
       getPages: route.getPages(),
+      //testing one
     );
   }
 }
